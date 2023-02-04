@@ -1,0 +1,162 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/annotations/performing-the-archive-2019-reading-canvas-1-context.json",
+  "type": "AnnotationPage",
+  "label": "Context",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "performing-the-archive-2019-reading-canvas-1-context-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Marlatt introduces the event.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/performing-the-archive-2019-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,19.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "performing-the-archive-2019-reading-canvas-1-context-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Marlatt provides an introduction to leaf leaf/s and the poems, explaining that they were written at a point when she was \"trying to figure out who [she] was\" and \"trying to figure out language.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/performing-the-archive-2019-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "20.0,133.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "performing-the-archive-2019-reading-canvas-1-context-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Marlatt provides some background on the inspirations behind the poem played aloud through the recording.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/performing-the-archive-2019-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "355.0,390.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "performing-the-archive-2019-reading-canvas-1-context-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Marlatt decides between reading one or two more poems from leaf leaf/s.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/performing-the-archive-2019-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "392.0,408.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "performing-the-archive-2019-reading-canvas-1-context-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Marlatt points out that \"you never know, when you're preparing for a reading, you feel like reading one poem and then when you get up there, you feel like reading another.\" People in the audience laugh.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/performing-the-archive-2019-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "485.0,495.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "performing-the-archive-2019-reading-canvas-1-context-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Marlatt introduces the second part of leaf leaf/s.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/performing-the-archive-2019-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "495.0,506.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "performing-the-archive-2019-reading-canvas-1-context-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Marlatt prefaces the next and final poem that she will read aloud.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/performing-the-archive-2019-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "671.0,677.0"
+        }
+      }
+    }
+  ]
+}

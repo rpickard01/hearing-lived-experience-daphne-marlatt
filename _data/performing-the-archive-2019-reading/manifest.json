@@ -23,6 +23,32 @@
         "id": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/performing-the-archive-2019-reading/canvas-1/canvas",
         "type": "Canvas",
         "duration": 707.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/annotations/performing-the-archive-2019-reading-canvas-1-2019.json",
+            "label": {
+              "none": ["2019"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/annotations/performing-the-archive-2019-reading-canvas-1-context.json",
+            "label": {
+              "none": ["Context"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/annotations/performing-the-archive-2019-reading-canvas-1-1969.json",
+            "label": {
+              "none": ["1969"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/performing-the-archive-2019-reading/canvas-1/paintings",

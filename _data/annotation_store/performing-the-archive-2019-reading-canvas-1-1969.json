@@ -1,0 +1,96 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/annotations/performing-the-archive-2019-reading-canvas-1-1969.json",
+  "type": "AnnotationPage",
+  "label": "1969",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "performing-the-archive-2019-reading-canvas-1-1969-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The 1969 recording of Marlatt reading leaf leaf/s is played.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/performing-the-archive-2019-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "140.0,210.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "performing-the-archive-2019-reading-canvas-1-1969-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The 1969 recording of Marlatt reading leaf leaf/s is played.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/performing-the-archive-2019-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "300.0,354.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "performing-the-archive-2019-reading-canvas-1-1969-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The 1969 recording of Marlatt reading leaf leaf/s is played.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/performing-the-archive-2019-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "443.0,477.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "performing-the-archive-2019-reading-canvas-1-1969-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The 1969 recording of Marlatt reading leaf leaf/s is played.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/performing-the-archive-2019-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "568.0,667.0"
+        }
+      }
+    }
+  ]
+}

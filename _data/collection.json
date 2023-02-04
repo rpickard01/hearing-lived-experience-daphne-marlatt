@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Hearing Lived Experience: Influences of Gender and Politics Over Time in Daphne Marlatt's Readings of leaf leaf/s" ] },
+    "summary": { "en": [ "In 1969, Canadian poet Daphne Marlatt was recorded reading her collection of poems, leaf leaf/s (1969), aloud in the living room of her former professor. Fifty years later, she read her poetry from the same collection, but with time came experiences that notably changed how Marlatt read her poems aloud. “Hearing Lived Experience: Influences of Gender and Politics Over Time in Daphne Marlatt’s Readings of leaf leaf/s” investigates the intersections of feminist readings and sound over time and place." ] },
+    "items": [
+    ]
+}

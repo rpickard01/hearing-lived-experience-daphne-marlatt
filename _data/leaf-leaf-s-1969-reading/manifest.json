@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "leaf leaf/s: 1969 Reading" ] },
+    "homepage": [
+      {
+        "id": "https://soundbox.ok.ubc.ca/",
+        "type": "Text",
+        "label": { "en": [ "leaf leaf/s: 1969 Reading" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://soundbox.ok.ubc.ca/",
+        "type": "Agent",
+        "label": { "en": [ "The SoundBox Collection" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1654.0,
+        "items": [
+          {
+            "id": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://soundbox.ok.ubc.ca/wp-content/uploads/2023/02/2012.002.016_Marlatt_LEAF-LEAFS-Reading.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 1654.0
+                },
+                "target": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 

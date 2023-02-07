@@ -23,6 +23,24 @@
         "id": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1654.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/annotations/leaf-leaf-s-1969-reading-canvas-1-poems--pt--2-.json",
+            "label": {
+              "none": ["Poems (Pt. 2)"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/annotations/leaf-leaf-s-1969-reading-canvas-1-poems--pt--1-.json",
+            "label": {
+              "none": ["Poems (Pt. 1)"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/paintings",

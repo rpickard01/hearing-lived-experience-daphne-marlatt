@@ -1,0 +1,382 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/annotations/leaf-leaf-s-1969-reading-canvas-1-poems--pt--1-.json",
+  "type": "AnnotationPage",
+  "label": "Poems (Pt. 1)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--1--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "4 parts of morning for 714",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "0.0,110.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--1--annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "4 parts of morning for 714 (i)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4.0,18.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--1--annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "4 parts of morning for 714 (ii)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "20.0,34.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--1--annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "4 parts of morning for 714 (iii)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "38.0,53.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--1--annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "4 parts of morning for 714 (iv)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "54.0,110.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--1--annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "rain",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "113.0,206.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--1--annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "as to snow",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "211.0,285.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--1--annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "dialog",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "292.0,325.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--1--annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "of to mother",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "327.0,388.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--1--annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "lynne, who has been shoveling snow",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "392.0,493.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--1--annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "for k, d",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "497.0,540.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--1--annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "the which of vision",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "549.0,582.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--1--annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "for three grisson, white, chaffee",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "587.0,675.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--1--annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "for three grisson, white, chaffee (i)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "598.0,626.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--1--annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "for three grisson, white, chaffee (ii)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "627.0,648.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--1--annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "for three grisson, white, chaffee (iii)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "650.0,664.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--1--annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "for three grisson, white, chaffee (iv)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "665.0,675.0"
+        }
+      }
+    }
+  ]
+}

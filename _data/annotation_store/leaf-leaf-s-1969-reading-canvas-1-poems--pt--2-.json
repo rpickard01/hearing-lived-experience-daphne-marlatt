@@ -1,0 +1,822 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/annotations/leaf-leaf-s-1969-reading-canvas-1-poems--pt--2-.json",
+  "type": "AnnotationPage",
+  "label": "Poems (Pt. 2)",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "photograph",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "678.0,698.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "us on new ground",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "699.0,768.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "us on new ground (i)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "702.0,731.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "us on new ground (ii)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "733.0,748.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "us on new ground (iii)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "749.0,768.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "so cocksure",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "771.0,842.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "so cocksure (i)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "774.0,786.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "so cocksure (ii)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "787.0,806.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "so cocksure (iii)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "807.0,811.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "so cocksure (iv)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "812.0,842.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "tu, carry thru",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "844.0,976.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "tu, carry thru (i)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "847.0,880.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "tu, carry thru (ii)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "881.0,893.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "tu, carry thru (iii)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "895.0,920.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "tu, carry thru (iv)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "921.0,976.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "out of cards",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "983.0,1098.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "out of cards (1,2)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "985.0,1000.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "out of cards (3)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1002.0,1011.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "out of cards (4)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1012.0,1037.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "out of cards (5)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1038.0,1047.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "out of cards (6)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1048.0,1056.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "out of cards (7)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1059.0,1077.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "out of cards (8)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1078.0,1098.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "june to september to june to september",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1115.0,1230.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "from whose dark",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1233.0,1340.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "from whose dark (i)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1237.0,1278.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "from whose dark (ii)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1279.0,1292.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "from whose dark (iii)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1293.0,1340.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "who moves",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1346.0,1499.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "who moves (i)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1348.0,1374.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "who moves (ii)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1375.0,1380.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "who moves (iii)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1381.0,1401.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "who moves (iv)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1403.0,1426.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "who moves (v)",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1428.0,1499.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"of generation\" for jeep a scorpio",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1504.0,1544.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "the move to reconstruct for d",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1550.0,1598.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "leaf-leaf-s-1969-reading-canvas-1-poems--pt--2--annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"sculptural energy is the mountain\" gaudier-brzeska",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://rpickard01.github.io/hearing-lived-experience-daphne-marlatt/leaf-leaf-s-1969-reading/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1604.0,1652.0"
+        }
+      }
+    }
+  ]
+}
